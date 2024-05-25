@@ -6,4 +6,4 @@ Infinite Scroll components, etc.
 # Responsive 
 It is responsive for all devices whether it is Laptop/PC or mobile phones.
 
-Api fetch are implemented to fetch different genre news like Science and technology news, Sports News, Education related news, etc.
+Api fetch are implemented to fetch different genre news like Science and technology news, Sports News, Education related news, etc
